@@ -1,5 +1,5 @@
 <template>
-<div class="border-b h-11 bg-blue-500">
+<div class="header border-b h-11">
     <div class="max-w-4xl mx-auto px-2 h-full flex items-center gap-2">
         <a class="hover:drop-shadow" href="https://colyseus.io/" target="_blank">
             <img src="/logos/colyseus-white.png" class="h-6" />
@@ -10,3 +10,8 @@
     </div>
 </div>
 </template>
+<style scoped>
+.header {
+    background: linear-gradient(90deg, rgba(67,134,255,1) 0%, rgba(154,86,255,1) 100%);
+}
+</style>
