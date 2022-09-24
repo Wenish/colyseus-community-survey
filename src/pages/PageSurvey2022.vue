@@ -1,6 +1,6 @@
 <template>
     <LayoutBase>
-        <h1>Results 2022 September</h1>
+        <h1>Results - 2022 September</h1>
     </LayoutBase>
     <div>
         
