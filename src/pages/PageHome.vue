@@ -1,6 +1,6 @@
 <template>
     <LayoutBase>
-        <h1>Results</h1>
+        <h1>Discover Colyseus Community Survey results.</h1>
         <br />
         <div class="list grid gap-4">
             <router-link :to="'/survey/2022'">
