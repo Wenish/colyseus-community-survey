@@ -9,4 +9,23 @@
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
   }
+  html,body {
+    @apply bg-slate-100;
+  }
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  h3 {
+    @apply text-lg;
+  }
+  b,
+  strong {
+    @apply font-bold;
+  }
+  hr {
+    @apply my-1;
+  }
 }
